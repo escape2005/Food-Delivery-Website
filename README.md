@@ -119,12 +119,3 @@ Start the Backend server
 ## Deployment
 
 The application is deployed on Render.
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, and we will discuss it.
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
